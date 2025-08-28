@@ -1,3 +1,5 @@
+![banner](image/img.png)
+
 # Moon 🌙
 
 A demonstration project showcasing Redis operations with Lua scripts for high-precision decimal arithmetic, implemented in both Go and Python.
