@@ -82,7 +82,7 @@ moon/
 │   └── requirements.txt  # Python dependencies
 ├── script/               # Lua scripts
 │   └── operations.lua    # Decimal arithmetic operations
-├── .env                  # Environment configuration
+├── .env.example          # Environment configuration
 └── docker-compose.yml    # Docker Compose configuration
 ```
 
@@ -103,7 +103,7 @@ Configure the application using the following environment variables in the `.env
 ```
 REDIS_HOST=localhost
 REDIS_PORT=6379
-REDIS_PASSWORD=your_password
+REDIS_PASSWORD=moon
 REDIS_DB=0
 ```
 
@@ -128,4 +128,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Author
 
-Hugo Martinez
+@MartinezAvellan
