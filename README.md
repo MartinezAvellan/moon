@@ -73,7 +73,7 @@ go run main.go
 
 ```
 moon/
-├── GO/                    # Go implementation
+├── GO/                   # Go implementation
 │   ├── go.mod            # Go module definition
 │   ├── go.sum            # Go dependencies checksum
 │   └── main.go           # Main Go application
