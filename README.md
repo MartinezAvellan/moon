@@ -94,7 +94,6 @@ The `operations.lua` script provides the following operations:
 - **Subtraction**: Subtract one decimal number from another
 - **Multiplication**: Multiply two decimal numbers
 - **Division**: Divide one decimal number by another with configurable precision
-- **Comparison**: Compare two decimal numbers
 
 ## Configuration
 
